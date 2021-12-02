@@ -1,0 +1,8 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="copy">testimonials-widget-item-url</custom-field>
+        <custom-field action="copy">testimonials-widget-item</custom-field>
+        <custom-field action="copy">testimonials-widget-read-more-link</custom-field>
+        <custom-field action="ignore">testimonials-widget-rating</custom-field>
+    </custom-fields>
+</wpml-config>
